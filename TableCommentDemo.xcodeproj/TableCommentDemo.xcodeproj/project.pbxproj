@@ -15,13 +15,6 @@
 		36313F0E1CCA0B76005A8871 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36313F0C1CCA0B76005A8871 /* LaunchScreen.storyboard */; };
 		36313F191CCA0B76005A8871 /* TableCommentDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 36313F181CCA0B76005A8871 /* TableCommentDemoTests.m */; };
 		36313F241CCA0B76005A8871 /* TableCommentDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 36313F231CCA0B76005A8871 /* TableCommentDemoUITests.m */; };
-		36313F321CCA0BD7005A8871 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36313F311CCA0BD7005A8871 /* ViewController.xib */; };
-		36313F361CCA0F7D005A8871 /* DetailCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 36313F341CCA0F7D005A8871 /* DetailCell.m */; };
-		36313F371CCA0F7D005A8871 /* DetailCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36313F351CCA0F7D005A8871 /* DetailCell.xib */; };
-		36313F3B1CCA0F93005A8871 /* CommentCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 36313F391CCA0F93005A8871 /* CommentCell.m */; };
-		36313F3C1CCA0F93005A8871 /* CommentCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36313F3A1CCA0F93005A8871 /* CommentCell.xib */; };
-		36313F3F1CCA1FCB005A8871 /* DetailModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 36313F3E1CCA1FCB005A8871 /* DetailModel.m */; };
-		36313F421CCA1FDE005A8871 /* CommentModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 36313F411CCA1FDE005A8871 /* CommentModel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,17 +51,6 @@
 		36313F1F1CCA0B76005A8871 /* TableCommentDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableCommentDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		36313F231CCA0B76005A8871 /* TableCommentDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableCommentDemoUITests.m; sourceTree = "<group>"; };
 		36313F251CCA0B76005A8871 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		36313F311CCA0BD7005A8871 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
-		36313F331CCA0F7D005A8871 /* DetailCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailCell.h; sourceTree = "<group>"; };
-		36313F341CCA0F7D005A8871 /* DetailCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailCell.m; sourceTree = "<group>"; };
-		36313F351CCA0F7D005A8871 /* DetailCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DetailCell.xib; sourceTree = "<group>"; };
-		36313F381CCA0F93005A8871 /* CommentCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommentCell.h; sourceTree = "<group>"; };
-		36313F391CCA0F93005A8871 /* CommentCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommentCell.m; sourceTree = "<group>"; };
-		36313F3A1CCA0F93005A8871 /* CommentCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CommentCell.xib; sourceTree = "<group>"; };
-		36313F3D1CCA1FCB005A8871 /* DetailModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailModel.h; sourceTree = "<group>"; };
-		36313F3E1CCA1FCB005A8871 /* DetailModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailModel.m; sourceTree = "<group>"; };
-		36313F401CCA1FDE005A8871 /* CommentModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommentModel.h; sourceTree = "<group>"; };
-		36313F411CCA1FDE005A8871 /* CommentModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommentModel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,17 +105,6 @@
 				36313F021CCA0B76005A8871 /* AppDelegate.m */,
 				36313F041CCA0B76005A8871 /* ViewController.h */,
 				36313F051CCA0B76005A8871 /* ViewController.m */,
-				36313F311CCA0BD7005A8871 /* ViewController.xib */,
-				36313F331CCA0F7D005A8871 /* DetailCell.h */,
-				36313F341CCA0F7D005A8871 /* DetailCell.m */,
-				36313F351CCA0F7D005A8871 /* DetailCell.xib */,
-				36313F381CCA0F93005A8871 /* CommentCell.h */,
-				36313F391CCA0F93005A8871 /* CommentCell.m */,
-				36313F3A1CCA0F93005A8871 /* CommentCell.xib */,
-				36313F3D1CCA1FCB005A8871 /* DetailModel.h */,
-				36313F3E1CCA1FCB005A8871 /* DetailModel.m */,
-				36313F401CCA1FDE005A8871 /* CommentModel.h */,
-				36313F411CCA1FDE005A8871 /* CommentModel.m */,
 				36313F071CCA0B76005A8871 /* Main.storyboard */,
 				36313F0A1CCA0B76005A8871 /* Assets.xcassets */,
 				36313F0C1CCA0B76005A8871 /* LaunchScreen.storyboard */,
@@ -274,10 +245,7 @@
 			files = (
 				36313F0E1CCA0B76005A8871 /* LaunchScreen.storyboard in Resources */,
 				36313F0B1CCA0B76005A8871 /* Assets.xcassets in Resources */,
-				36313F321CCA0BD7005A8871 /* ViewController.xib in Resources */,
-				36313F3C1CCA0F93005A8871 /* CommentCell.xib in Resources */,
 				36313F091CCA0B76005A8871 /* Main.storyboard in Resources */,
-				36313F371CCA0F7D005A8871 /* DetailCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,11 +272,7 @@
 			files = (
 				36313F061CCA0B76005A8871 /* ViewController.m in Sources */,
 				36313F031CCA0B76005A8871 /* AppDelegate.m in Sources */,
-				36313F3F1CCA1FCB005A8871 /* DetailModel.m in Sources */,
-				36313F361CCA0F7D005A8871 /* DetailCell.m in Sources */,
-				36313F3B1CCA0F93005A8871 /* CommentCell.m in Sources */,
 				36313F001CCA0B76005A8871 /* main.m in Sources */,
-				36313F421CCA1FDE005A8871 /* CommentModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
